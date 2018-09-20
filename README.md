@@ -1,3 +1,5 @@
+# * THIS PROJECT IS DEPRECATED *
+
 # Ionic Barcode scanner
 
 It's just a test app. It's an hybrid application in order to scan barcode!
